@@ -1,0 +1,12 @@
+animal
+art
+building
+car
+food
+makeup
+mountain
+night
+painting
+plant
+sea
+travel
